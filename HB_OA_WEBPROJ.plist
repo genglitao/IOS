@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ztesoft.oa.HB-OA-WEBPROJ</string>
+				<string>com.ztesoft.oa.HB_OA_WEBPROJ</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
